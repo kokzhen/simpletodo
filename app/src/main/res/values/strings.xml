@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">simpletodo</string>
+    <string name="btnadd">Add</string>
+    <string name="btnclr">Clear</string>
+    <string name="txt">Add task</string>
+</resources>
